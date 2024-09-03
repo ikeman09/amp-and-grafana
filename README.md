@@ -1,14 +1,7 @@
-# Welcome to your CDK TypeScript project
+# AMP and AMG Monitoring if Amazon EKS
 
-This is a blank project for CDK development with TypeScript.
+![alt text](image.jpg)
 
-The `cdk.json` file tells the CDK Toolkit how to execute your app.
+This repository contains the necessary configurations and code to set up an Amazon EKS, Amazon Managed Prometheus and Amazon Managed Grafana. 
 
-## Useful commands
-
-* `npm run build`   compile typescript to js
-* `npm run watch`   watch for changes and compile
-* `npm run test`    perform the jest unit tests
-* `npx cdk deploy`  deploy this stack to your default AWS account/region
-* `npx cdk diff`    compare deployed stack with current state
-* `npx cdk synth`   emits the synthesized CloudFormation template
+This is a supporting material to my blog post entitled, Serverless EKS Monitoring: Leveraging Amazon Managed Prometheus and Grafana with AWS CDK.
