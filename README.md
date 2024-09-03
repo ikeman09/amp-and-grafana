@@ -1,4 +1,4 @@
-# AMP and AMG Monitoring if Amazon EKS
+# AMP and AMG Monitoring of Amazon EKS
 
 ![alt text](image.jpg)
 
