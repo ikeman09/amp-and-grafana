@@ -7,7 +7,7 @@ const app = new cdk.App();
 
 new AmpAndGrafanaStack(app, 'AmpAndGrafanaStack', {
   env: {
-    account: '114043003553',
+    account: '<account-id>',
     region: 'us-east-1',
   },
 });
